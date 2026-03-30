@@ -6,7 +6,7 @@
 
 ---
 
-Right now im a frontend-focused developer. 
+Right now i am a frontend-focused developer. 
 Working daily with HTML, CSS, JavaScript, Angular, Tailwind, Jest, and Storybook.  
 Basic knowledge of C# & Java.
 
