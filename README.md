@@ -36,7 +36,6 @@ C# • Java • Python
 ![Storybook](https://img.shields.io/badge/Storybook-pink?style=for-the-badge&logo=storybook)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 ![PLSQL](https://img.shields.io/badge/PLSQL-red?style=for-the-badge&logo=oracle)
-![C#](https://img.shields.io/badge/CSharp-purple?style=for-the-badge&logo=csharp)
 
 ---
 
