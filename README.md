@@ -8,7 +8,6 @@
 
 Right now i am a frontend-focused developer. 
 Working daily with HTML, CSS, JavaScript, TypeScript, Angular, Tailwind, Jest, and Storybook.  
-Basic knowledge of C# & Java.
 
 ---
 
