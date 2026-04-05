@@ -14,7 +14,7 @@ Working daily with HTML, CSS, JavaScript, TypeScript, Angular, Tailwind, Jest, a
 ## 🧠 Skills
 
 💻 Frontend:  
-HTML • CSS • JavaScript • Angular • Tailwind • Jest • Storybook  
+HTML • CSS • JavaScript • TypeScript • Angular • Tailwind • Jest • Storybook  
 
 🗄️ Databases:  
 MySQL • PL/SQL  
